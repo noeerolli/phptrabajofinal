@@ -1,0 +1,62 @@
+
+
+#title{
+    text-align: center;
+    margin-top: 40px;
+    margin-bottom: 40px;
+    font-weight: lighter;
+    color: crimson;
+}
+
+.table-container{
+    margin: 20px ;
+}
+.table{
+    font-size: 15px;
+}
+
+.btn-primary{
+
+    background-color: rgb(2, 1, 1) !important;
+   margin-top: 20px !important;
+
+}
+
+.bt {
+   font-size:  12pt ;
+   background-color: indianred !important;
+   border-width: 1px;
+   margin-left: 600px;
+   margin-top: 20px;
+   
+ 
+}
+.btn-group-vertical:hover{
+    color: darkgray;
+}
+
+
+.btn-group-vertical{
+
+    margin-top: 100px;
+    position: absolute;
+    top:50% ;
+    left: 40% ;           
+    margin-top: -100px;
+    margin-left: -100px;
+    width: 400px;
+    
+}
+
+i{
+    color: crimson;
+}
+
+.form_div{
+   margin-left: 20px !important;
+   
+}
+
+.form-select{
+    width: 800px;
+}
